@@ -1,0 +1,6 @@
+@TestWebApi_HostAddress = http://localhost:5264
+
+GET {{TestWebApi_HostAddress}}/search/
+Accept: application/json
+
+###
