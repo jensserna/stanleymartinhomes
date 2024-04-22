@@ -43,15 +43,11 @@ React data table
 
 # Usage
 
-Clone backend repo `git clone https://github.com/jensserna/stanleymartinhomes/backend`
+Clone repo `git clone https://github.com/jensserna/stanleymartinhomes.git`
 
 Navigate to backend directory `cd backend`
 
-Create and seed DB `dotnet ef migrations add InitialCreate`, `dotnet ef database update`
-
 Run backend `dotnet run --project backend`
-
-Clone frontend repo `git clone https://github.com/jensserna/stanleymartinhomes/frontend`
 
 Navigate to frontend directory `cd frontend`
 
